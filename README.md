@@ -88,8 +88,12 @@ Key tasks include:
 **Pathlavath Arun Naik**
 B.Tech Biotechnology | IIT Madras
 
+Interested in Data Analytics, Data Science, AI & Machine Learning.
+
 ### 🔗 Connect With Me
 
-* 💻 **GitHub:** [PathlavathArunNaik](https://github.com/PathlavathArunNaik)
+* 📧 **Gmail ID:** [arunnaik6616@gmail.com](mailto:arunnaik6616@gmail.com)
 * 💼 **LinkedIn:** [Pathlavath Arun Naik](https://www.linkedin.com/in/pathlavath-arun-naik)
+* 💻 **GitHub:** [PathlavathArunNaik](https://github.com/PathlavathArunNaik)
+
 
