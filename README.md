@@ -91,5 +91,5 @@ B.Tech Biotechnology | IIT Madras
 ### 🔗 Connect With Me
 
 * 💻 **GitHub:** [PathlavathArunNaik](https://github.com/PathlavathArunNaik)
-* 💼 **LinkedIn:** Pathlavath Arun Naik](https://www.linkedin.com/in/pathlavath-arun-naik)
+* 💼 **LinkedIn:** [Pathlavath Arun Naik](https://www.linkedin.com/in/pathlavath-arun-naik)
 
